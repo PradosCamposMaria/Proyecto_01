@@ -1,17 +1,3 @@
-Introducimos el comando git init, el cual nos crea en el directorio una carpeta oculta 
-.git que nos servirá para conectar el repositorio local con el repositorio en github.
-Manualmente creamos en el explorador de Windows, 2 carpetas, una llamada doc y 
-otra llamada scr, a las dos les metemos un archivo de prueba.txt para que git nos 
-reconozca las carpetas, SI ESTAN VACIAS NO LAS RECONOCE.
-Volvemos a powershell, e introducimos git status, siempre que queramos saber, cual 
-es el estado de las cosas de nuestro repositorio local, y luego (cuando vinculemos el 
-repositorio en web), el estado respecto al que está colgado en github.
-En color verde, las que, si lo están, en color rojo, las que tienen alguna modificación no 
-actualizada.
-Git add, añade cosas al repositorio, puedo añadir archivos o carpetas independientes o 
-marcando un punto (.) Añado todo lo que contenga.
-La primera vez que intento añadir cosas, me va a pedir añadir mis datos, “usuario” e 
-“email”.
 Explicación de los comandos
 Git Branch selecciona la rama de trabajo en la que estás puesto que puedes crear 
 varias, desde donde partir para continuar con el trabajo en este caso, trabajaremos en 
