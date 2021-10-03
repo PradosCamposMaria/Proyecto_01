@@ -1,0 +1,13 @@
+Explicación de los comandos
+Git Branch selecciona la rama de trabajo en la que estás puesto que puedes crear 
+varias, desde donde partir para continuar con el trabajo en este caso, trabajaremos en 
+la principal con Git Branch –M (main).
+Git remote add origin (link) nuestro repositorio de github.
+Git push -u, sube nuestras tareas a la red.
+Git commit –m “Añadimos un concepto o comentario para el archivo”
+Con git Status volvemos a comprobar que los archivos están en verde.
+Otros comandos: 
+Git pull (Si la información del repositorio es más actual que la local), para traernos la 
+información al ordenador.
+Git Clone, Nos clona de nuevo el repositorio en el nuevo pc.
+Git Download, Descarga directamente los mismos archivos al ordenador.
