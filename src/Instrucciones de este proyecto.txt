@@ -1,0 +1,25 @@
+pasos para crear y subir el repositorio
+
+Crear la carpeta en local proyecto_01
+
+Git init, para crear la carpeta de configuración oculta en proyecto_01
+
+Crear el repositorio en Git-hub (una vez iniciada sesión) Proyecto_01
+
+Vincular la carpeta local con la carpeta del repositorio, desde powershell.
+
+Git remote add origin (link) nuestro repositorio de github.
+
+Crear dos carpetas (scr) y (doc) con contenido sino no las reconoce.
+
+En el scr meto los txt con instrucciones, y en el doc el pdf con la explicación.
+
+Para subir las carpetas
+
+Git add . (añade todo) o nombre del archivo los añade por separado.
+
+Git commit -m "Comentario" prepara los archivos para subir y les añade un concepto
+
+Git push -u añade los archivos al repositorio.
+
+
